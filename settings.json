@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "bypolerninja.falixsrv.me",
-    "port": 21822,
+    "ip": "orfe.aternos.host",
+    "port": 32498,
     "version": "1.21.1"
   },
   "position": {
